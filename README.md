@@ -19,3 +19,6 @@ specifically at **line 52**.
 
 The target style shown in this video:  
 https://youtu.be/H_uD_l1GBIM
+
+<img width="229" height="181" alt="image" src="https://github.com/user-attachments/assets/ea833470-f8ad-48f0-8fc8-a6abae9393b7" />
+
